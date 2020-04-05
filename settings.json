@@ -1,0 +1,33 @@
+{//カラーテーマ
+    "workbench.colorTheme": "Kawaii Theme",
+
+    "workbench.colorCustomizations": {
+        "[Kawaii Theme]": {
+            "activityBar.foreground": "#6cbcca",
+            "editor.background": "#27211e",
+            "scrollbarSlider.background": "#ff6ca9b2",
+            "scrollbarSlider.hoverBackground": "#60a9b6",
+            "scrollbarSlider.activeBackground": "#f8dd40",
+            "sideBar.background": "#1f1611",
+            "tab.activeBackground": "#27211e",
+        }
+    },
+
+    "editor.tokenColorCustomizations": {
+        "[Kawaii Theme]":{
+            
+            //変数
+            "variables": {
+                "foreground": "#ffa228",
+                "fontStyle": "underline"
+            },
+            //関数
+            "functions":{
+                "foreground": "#ff7b3d",
+                "fontStyle": "bold"
+            }
+            
+        }
+    }
+
+}
